@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
 
@@ -7,7 +5,7 @@ public class Main {
 
         int water = 3000; // миллилитров воды
         int potatoes = 5; // картофелин
-        int chicken = 6; // куриных бедер
+        int chicken = 6; // куриных бёдр
         int spices = 10; // ложек специй
 
         System.out.println("Сварили суп. На одного человека вышло:");
